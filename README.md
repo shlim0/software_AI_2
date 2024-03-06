@@ -1,7 +1,7 @@
 # software_AI_2
-노예가 되기 싫은 자
-대학원을 피하라
+2022-1 SSU AI-Project to classify image that using CNN modeling 
 
-# model.txt <- 모델 파일
-# 배치사이즈 500
-# 30에포크정도 돌리면 무난할듯
+---
+- Recommended
+  - Batch: 500
+  - Epoch: 30
